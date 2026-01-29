@@ -1,3 +1,1 @@
-Alice loves coffee
-Bob loves tea
-OOPS WRONG
+Alice loves coffeeBob loves tea
